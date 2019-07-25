@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Spring-source-code-analysis
 本文解读Spring 5.1.8版本部分源码
 
@@ -35,4 +35,4 @@ Follow [@SpringCentral](https://twitter.com/springcentral), [@SpringFramework](h
 ## License
 
 The Spring Framework is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
->>>>>>> yanglin uploaded Spring 5.1.5 Code
+
